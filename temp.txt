@@ -1,0 +1,15 @@
+# # for question in questions:
+	# # 	print(question[0])
+	# # 	print(question[1])
+	# x = getArtifactDesc("Moldy spoon")
+	# print(x)
+
+	# x, y = getRoomDesc("Basement", 50)
+	# print(x)
+	# for thing in y:
+	# 	print(thing)
+	# current = Question(Q, AnswerLetter)
+	# current.update()
+	# print(Question)
+
+    # print("Answer: " + AnswerLetter)

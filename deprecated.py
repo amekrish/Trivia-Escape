@@ -2,9 +2,10 @@ import openai
 #openai.api_key = "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" 
 from openai import OpenAI
 #from config.env import OPENAI_API_KEY
-client = OpenAI(api_key="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")
+#client = OpenAI(api_key="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")
 
-# import os
+import os
+openai.api_key = os.environ['OPENAI_API_KEY']
 
 # os.environ[“OPENAI_API_KEY”] = “your key here”
 # prompt = "Generate an easy history question with 4 multiple choice options and a correct answer"
