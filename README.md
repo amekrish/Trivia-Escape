@@ -1,7 +1,7 @@
 # Trivia Escape Game
 
 ## Background Info
-Made at our first hackathon, [MHACKS16](https://www.mhacks.org/) with [Amogh Madireddi](https://github.com/amoghmadireddi), [Rutvik Parikh](https://github.com/rutvikparikh11), [Gavin Hardy](https://github.com/GShane325), and [Amey Krishna](https://github.com/amekrish).
+Made at our first hackathon, [MHACKS16](https://www.mhacks.org/), with [Amogh Madireddi](https://github.com/amoghmadireddi), [Rutvik Parikh](https://github.com/rutvikparikh11), [Gavin Hardy](https://github.com/GShane325), and [Amey Krishna](https://github.com/amekrish).
 
 ## About the Project
 
