@@ -1,4 +1,4 @@
-### Trivia Escape Game
+# Trivia Escape Game
 
 ## Made at our first hackathon, [MHACK16](https://www.mhacks.org/)
 
