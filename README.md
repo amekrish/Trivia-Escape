@@ -5,8 +5,8 @@ Made at our first hackathon, [MHACKS16](https://www.mhacks.org/), with [Amogh Ma
 
 ## About the Project
 
-Used Python and the University of Michigan GPT-4 API to design a escape room game where players would get questions with a topic and difficulty of their own choice inspired by old dungeon escape games.
+Used Python and the University of Michigan GPT-4 API to design an escape room game where players would get questions with a topic and difficulty of their own choice inspired by old dungeon escape games.
 
 ## How to Use
 
-Clone the reposity and create a config.env file containing your API key. Make sure your have Python and the openai package installed.
+Clone the repository and create a config.env file containing your API key. Make sure you have Python and the openai package installed.
